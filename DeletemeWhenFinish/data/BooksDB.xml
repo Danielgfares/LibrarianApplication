@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">idBook</Data></Cell>
+			<Cell><Data ss:Type="String">title</Data></Cell>
+			<Cell><Data ss:Type="String">auther</Data></Cell>
+			<Cell><Data ss:Type="String">publisher</Data></Cell>
+			<Cell><Data ss:Type="String">publicationYear</Data></Cell>
+			<Cell><Data ss:Type="String">ISBN</Data></Cell>
+			<Cell><Data ss:Type="String">nPages</Data></Cell>
+			<Cell><Data ss:Type="String">roomNumber</Data></Cell>
+			<Cell><Data ss:Type="String">rowNumber</Data></Cell>
+			<Cell><Data ss:Type="String">bookShelfNumber</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Texts from Denmark</Data></Cell>
+			<Cell><Data ss:Type="String">Brian Jensen</Data></Cell>
+			<Cell><Data ss:Type="String">Gyldendal</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-4353-0966-8</Data></Cell>
+			<Cell><Data ss:Type="Number">915</Data></Cell>
+			<Cell><Data ss:Type="String">1A</Data></Cell>
+			<Cell><Data ss:Type="String">N101</Data></Cell>
+			<Cell><Data ss:Type="String">1AA2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Foreigner Of Next Year</Data></Cell>
+			<Cell><Data ss:Type="String">Alan Lawrence</Data></Cell>
+			<Cell><Data ss:Type="String">Johns-Hoppe</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-1387-1756-7</Data></Cell>
+			<Cell><Data ss:Type="Number">767</Data></Cell>
+			<Cell><Data ss:Type="String">1A</Data></Cell>
+			<Cell><Data ss:Type="String">N107</Data></Cell>
+			<Cell><Data ss:Type="String">7AA3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Owl With Wings</Data></Cell>
+			<Cell><Data ss:Type="String">Tim Cornish</Data></Cell>
+			<Cell><Data ss:Type="String">Braun-Carroll</Data></Cell>
+			<Cell><Data ss:Type="String">1864-03-10 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-7767-2473-8</Data></Cell>
+			<Cell><Data ss:Type="Number">683</Data></Cell>
+			<Cell><Data ss:Type="String">1A</Data></Cell>
+			<Cell><Data ss:Type="String">N101</Data></Cell>
+			<Cell><Data ss:Type="String">1AA4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Defenders Of The South</Data></Cell>
+			<Cell><Data ss:Type="String">Austin Duncan</Data></Cell>
+			<Cell><Data ss:Type="String">Greenholt Group</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-9600-5882-6</Data></Cell>
+			<Cell><Data ss:Type="Number">910</Data></Cell>
+			<Cell><Data ss:Type="String">1A</Data></Cell>
+			<Cell><Data ss:Type="String">N103</Data></Cell>
+			<Cell><Data ss:Type="String">3AA2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Witches Of The Ancestors</Data></Cell>
+			<Cell><Data ss:Type="String">Audrey Bailey</Data></Cell>
+			<Cell><Data ss:Type="String">Buckridge-Dach</Data></Cell>
+			<Cell><Data ss:Type="String">1861-11-12 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-9931-8518-5</Data></Cell>
+			<Cell><Data ss:Type="Number">565</Data></Cell>
+			<Cell><Data ss:Type="String">1A</Data></Cell>
+			<Cell><Data ss:Type="String">N105</Data></Cell>
+			<Cell><Data ss:Type="String">5AA3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Robots And Doctors</Data></Cell>
+			<Cell><Data ss:Type="String">Hannah Ross</Data></Cell>
+			<Cell><Data ss:Type="String">Block-Bernhard</Data></Cell>
+			<Cell><Data ss:Type="String">1853-04-04 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-7191-2309-7</Data></Cell>
+			<Cell><Data ss:Type="Number">346</Data></Cell>
+			<Cell><Data ss:Type="String">1A</Data></Cell>
+			<Cell><Data ss:Type="String">N104</Data></Cell>
+			<Cell><Data ss:Type="String">4AA4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Pilots And Priests</Data></Cell>
+			<Cell><Data ss:Type="String">Dorothy Hardacre</Data></Cell>
+			<Cell><Data ss:Type="String">Feeney-Beatty</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-6097-0325-0</Data></Cell>
+			<Cell><Data ss:Type="Number">667</Data></Cell>
+			<Cell><Data ss:Type="String">2A</Data></Cell>
+			<Cell><Data ss:Type="String">N207</Data></Cell>
+			<Cell><Data ss:Type="String">7AB1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Wand Without Hope</Data></Cell>
+			<Cell><Data ss:Type="String">Tracey Peake</Data></Cell>
+			<Cell><Data ss:Type="String">Roob-Schoen</Data></Cell>
+			<Cell><Data ss:Type="String">1881-12-26 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-9833-7301-9</Data></Cell>
+			<Cell><Data ss:Type="Number">349</Data></Cell>
+			<Cell><Data ss:Type="String">2A</Data></Cell>
+			<Cell><Data ss:Type="String">N206</Data></Cell>
+			<Cell><Data ss:Type="String">6AB3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Spire Of Power</Data></Cell>
+			<Cell><Data ss:Type="String">Tim Johnston</Data></Cell>
+			<Cell><Data ss:Type="String">Glover-Windler</Data></Cell>
+			<Cell><Data ss:Type="String">1829-10-02 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-2827-9962-1</Data></Cell>
+			<Cell><Data ss:Type="Number">530</Data></Cell>
+			<Cell><Data ss:Type="String">2A</Data></Cell>
+			<Cell><Data ss:Type="String">N201</Data></Cell>
+			<Cell><Data ss:Type="String">1AB4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Separated By My Future</Data></Cell>
+			<Cell><Data ss:Type="String">Jake Morrison</Data></Cell>
+			<Cell><Data ss:Type="String">Leuschke-Hartmann</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-5874-8848-4</Data></Cell>
+			<Cell><Data ss:Type="Number">483</Data></Cell>
+			<Cell><Data ss:Type="String">2A</Data></Cell>
+			<Cell><Data ss:Type="String">N208</Data></Cell>
+			<Cell><Data ss:Type="String">8AB2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Justice In The Darkness</Data></Cell>
+			<Cell><Data ss:Type="String">Anna Kelly</Data></Cell>
+			<Cell><Data ss:Type="String">Tromp-Sipes</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-3004-6979-9</Data></Cell>
+			<Cell><Data ss:Type="Number">437</Data></Cell>
+			<Cell><Data ss:Type="String">2A</Data></Cell>
+			<Cell><Data ss:Type="String">N204</Data></Cell>
+			<Cell><Data ss:Type="String">4AB3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Raven Of The Ocean</Data></Cell>
+			<Cell><Data ss:Type="String">Peter Carr</Data></Cell>
+			<Cell><Data ss:Type="String">Nicolas-Cummerata</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-5065-4097-9</Data></Cell>
+			<Cell><Data ss:Type="Number">535</Data></Cell>
+			<Cell><Data ss:Type="String">2A</Data></Cell>
+			<Cell><Data ss:Type="String">N208</Data></Cell>
+			<Cell><Data ss:Type="String">8AB4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Boy Of The Nation</Data></Cell>
+			<Cell><Data ss:Type="String">Brandon Allan</Data></Cell>
+			<Cell><Data ss:Type="String">Rath-Reinger</Data></Cell>
+			<Cell><Data ss:Type="String">1887-05-12 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-9695-4778-1</Data></Cell>
+			<Cell><Data ss:Type="Number">427</Data></Cell>
+			<Cell><Data ss:Type="String">3A</Data></Cell>
+			<Cell><Data ss:Type="String">N309</Data></Cell>
+			<Cell><Data ss:Type="String">9AC2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Bandits Of Eternity</Data></Cell>
+			<Cell><Data ss:Type="String">Dylan Rutherford</Data></Cell>
+			<Cell><Data ss:Type="String">Kozey-Oberbrunner</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-8993-3003-7</Data></Cell>
+			<Cell><Data ss:Type="Number">497</Data></Cell>
+			<Cell><Data ss:Type="String">3A</Data></Cell>
+			<Cell><Data ss:Type="String">N302</Data></Cell>
+			<Cell><Data ss:Type="String">2AC3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Gods Of The Eclipse</Data></Cell>
+			<Cell><Data ss:Type="String">Victoria Sharp</Data></Cell>
+			<Cell><Data ss:Type="String">Cassin-Lubowitz</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-9788-6687-8</Data></Cell>
+			<Cell><Data ss:Type="Number">608</Data></Cell>
+			<Cell><Data ss:Type="String">3A</Data></Cell>
+			<Cell><Data ss:Type="String">N301</Data></Cell>
+			<Cell><Data ss:Type="String">1AC2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Friends And Companions</Data></Cell>
+			<Cell><Data ss:Type="String">Virginia Smith</Data></Cell>
+			<Cell><Data ss:Type="String">Bergstrom-Hintz</Data></Cell>
+			<Cell><Data ss:Type="String">1837-10-22 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-7391-3153-2</Data></Cell>
+			<Cell><Data ss:Type="Number">482</Data></Cell>
+			<Cell><Data ss:Type="String">3A</Data></Cell>
+			<Cell><Data ss:Type="String">N304</Data></Cell>
+			<Cell><Data ss:Type="String">4AC4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Guardians And Men</Data></Cell>
+			<Cell><Data ss:Type="String">Liam Lewis</Data></Cell>
+			<Cell><Data ss:Type="String">Stehr-Terry</Data></Cell>
+			<Cell><Data ss:Type="String">1880-05-18 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-1407-8109-9</Data></Cell>
+			<Cell><Data ss:Type="Number">600</Data></Cell>
+			<Cell><Data ss:Type="String">3A</Data></Cell>
+			<Cell><Data ss:Type="String">N305</Data></Cell>
+			<Cell><Data ss:Type="String">5AC5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">Scourge With Determination</Data></Cell>
+			<Cell><Data ss:Type="String">Caroline Mackay</Data></Cell>
+			<Cell><Data ss:Type="String">Kling-Schowalter</Data></Cell>
+			<Cell><Data ss:Type="String">1891-09-27 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-6705-2130-2</Data></Cell>
+			<Cell><Data ss:Type="Number">594</Data></Cell>
+			<Cell><Data ss:Type="String">3A</Data></Cell>
+			<Cell><Data ss:Type="String">N305</Data></Cell>
+			<Cell><Data ss:Type="String">5AC1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Construction Of Freedom</Data></Cell>
+			<Cell><Data ss:Type="String">Jane Black</Data></Cell>
+			<Cell><Data ss:Type="String">Holmgren AB</Data></Cell>
+			<Cell><Data ss:Type="String">1874-08-09 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-9457-8367-1</Data></Cell>
+			<Cell><Data ss:Type="Number">364</Data></Cell>
+			<Cell><Data ss:Type="String">4A</Data></Cell>
+			<Cell><Data ss:Type="String">N405</Data></Cell>
+			<Cell><Data ss:Type="String">5AD3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Whispers In The Mist</Data></Cell>
+			<Cell><Data ss:Type="String">Thomas Powell</Data></Cell>
+			<Cell><Data ss:Type="String">Blom & Martinsson AB	</Data></Cell>
+			<Cell><Data ss:Type="String">1891-09-27 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0-8043-1593-0</Data></Cell>
+			<Cell><Data ss:Type="Number">579</Data></Cell>
+			<Cell><Data ss:Type="String">5A</Data></Cell>
+			<Cell><Data ss:Type="String">N504</Data></Cell>
+			<Cell><Data ss:Type="String">4AE2</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
